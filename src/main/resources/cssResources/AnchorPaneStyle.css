@@ -1,0 +1,33 @@
+
+.anchorPane Button{
+    -fx-background-color:  #0853c5;
+    -fx-text-fill: #FFFFFF;
+    -fx-pref-width: 149;
+    -fx-effect: dropshadow(three-pass-box, #AAAAAA, 5,0,0,2);
+    -fx-pref-height: 60;
+
+}
+
+.anchorPane Button:hover{
+    -fx-background-color: #14243d;
+}
+
+.anchorPane Button:pressed{
+    -fx-background-color:  #ffffff;
+}
+
+.slider{
+    -fx-pref-width: 300px;
+}
+
+.slider .track{
+    -fx-background-color: linear-gradient(to left, cyan, magenta);
+    -fx-background-radius: 0;
+}
+
+.slider .thumb{
+    -fx-pref-height: 30px;
+    -fx-pref-width: 10px;
+    -fx-background-color: linear-gradient(to top, royalblue,white);
+    -fx-background-radius: 0;
+}
