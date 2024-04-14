@@ -1,4 +1,4 @@
-# 305Project
+# Edmonton Property Hub
 ## Charuni Liyanage, Olasubomi Badiru, Simon Gordon
 **NOTE**: I built this in intelliJ, and for reliability I would suggest us all to use it. You can get a free student account [here](https://www.jetbrains.com/shop/eform/students).
 
